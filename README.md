@@ -14,7 +14,3 @@ $ make bin
 ```bash
 $ make run
 ````
-3. While the program is running type this to have access to the PIDs.
-```bash
-$ ps -l
-``` 
